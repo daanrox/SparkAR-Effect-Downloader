@@ -6,6 +6,7 @@ searchbin.py -f FILE    [FILE [FILE...]]
 examples:
 ./searchbin.py -t "hello" myfile.exe
 Searches for the text "hello" in myfile.exe.
+ok
 ./searchbin.py -p "CCDDFF" myfile.exe
 Searches for the hexidecimal pattern "CCDDFF" in myfile.exe.
 ./searchbin.py -f pattern.bin myfile.exe
