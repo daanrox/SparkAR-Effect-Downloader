@@ -17,7 +17,7 @@ Por favor, note que esta aplicação foi desenvolvida especificamente para dispo
 - Engenharia reversa para aprimorar as capacidades das ferramentas de filtros.
 
 
-##Atualizações em Andamento
+## Atualizações em Andamento
 
 A versão atual desta aplicação está em processo de manutenção para trazer melhorias e correções. 
 Aguarde a versão atualizada em breve para novas funcionalidades e melhorias de desempenho.
@@ -29,7 +29,7 @@ Esta aplicação é projetada para fins de demonstração e aprendizado em engen
 Este repositório está em constante evolução. Sua contribuição é bem-vinda para aprimorar esta ferramenta e torná-la ainda mais eficiente para a comunidade de desenvolvedores.
 
 
-##Executando o projeto
+## Executando o projeto
 
 1) Desinstale a versão atual do aplicativo Instagram em seu aparelho
 2) Instale o aplicativo modificado
